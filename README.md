@@ -1,5 +1,6 @@
 it's a chat
 
+
 /register
 /pnf
 /pse
@@ -8,5 +9,8 @@ it's a chat
 /changePassPage
 /chatPage
 
+"npm run build" to build
+"npm run start" for node server.js
 
-"npm run start" for start
+
+Netlify: 
