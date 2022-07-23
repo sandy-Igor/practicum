@@ -12,26 +12,32 @@
   from = "/register"
   to = "/index"
   status = 301
+
 [[redirects]]
   from = "/pnf"
   to = "/index"
   status = 301
+
 [[redirects]]
   from = "/pse"
   to = "/index"
   status = 301
+
 [[redirects]]
   from = "/changeProfilePage"
   to = "/index"
   status = 301
+
 [[redirects]]
   from = "/profilePage"
   to = "/index"
   status = 301
+
 [[redirects]]
   from = "/changePassPage"
   to = "/index"
   status = 301
+
 [[redirects]]
   from = "/chatPage"
   to = "/index"
